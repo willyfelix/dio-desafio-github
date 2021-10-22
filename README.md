@@ -1,4 +1,6 @@
-# Desafio de Projeto dobre Git/GitHub da DIO!
+# Desafio de Projeto sobre Git/GitHub da DIO
 
-Repositório criado para o Desafio de Projeto.
+* Repositório criado para o __Desafio de Projeto__, onde guardarei meus futuros projetos realizados na plataforma da DIO.
+
+
 
